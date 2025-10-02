@@ -69,7 +69,7 @@ Recuerda que los montos que negocias son BRUTOS. Por recibir ese dinero, tendrá
 
 ### Transferwise
 
-[Transferwise](https://transferwise.com/invite/u/camilop16) (link con invite) te da una especie de cuenta virtual dónde tu empleador puede depositar como si tuvieras una cuenta en EEUU. Luego tu puedes transferir a cuentas en muchos países, incluyendo Chile.
+[Transferwise](https://transferwise.com/) te da una especie de cuenta virtual dónde tu empleador puede depositar como si tuvieras una cuenta en EEUU. Luego tu puedes transferir a cuentas en muchos países, incluyendo Chile.
 
 Limitaciones:
 * en el pasado ha tenido limitaciones de monto mensual, pero a Julio 2020 no las hay
@@ -120,7 +120,7 @@ Las comisiones de las que tenemos conocimiento son las siguientes:
 
 | Banco                  | Comisión por recibir tu pago    | Vigencia desde |
 | -----------------------|:-------------------------------:|:--------------:|
-| BICE                   | ![Comisión BICE Recepción](img/comision-recepcion-usd-bice.png) ([fuente](https://www.bice.cl/documentos/Tarifas-y-Comisiones-Banca-Personas-Agosto-2021.pdf)) | Agosto 2021 || Scotiabank             | Gratis                          |
+| BICE                   | ![Comisión BICE Recepción](https://github.com/user-attachments/assets/cd6404a1-bc1b-426b-bf62-4321d180d3d7) ([fuente](https://bice.modyocdn.com/uploads/9620a70b-2928-4aa4-a464-b46118988c25/original/Tarifas_y_Comisiones_Banca_Personas_Octubre_2024.pdf)) | Octubre 2024 || Scotiabank             | Gratis                          |
 | Bci                    | *UM50 + IVA                     |
 | Santander              | Comisión + IVA ![Comisión Santander Recepción](img/comision-recepcion-usd-santander.png) ([fuente](https://www.santander.cl/tarifas_comisiones/productos/TransExterior.pdf))    |
 | Banco Edwards / Chile  | ![Comisión Edwards Recepción](img/comision-recepcion-usd-edwards.png) ([fuente](https://transferwise.com/es/blog/transferencia-internacional-banco-chile)) |
@@ -227,9 +227,9 @@ Si te pagan en dólares, usa la [tabla dólar-peso del SII](http://www.sii.cl/va
 
 ### Impuestos mensuales
 
-Si tu retuviste el Pago Provisional Mensual al emitir la boleta, debes declarar (**y, muy importante, pagar!**) impuestos mensuales usando el formulario F29 [la web del SII](http://homer.sii.cl/). La página calcula el monto por ti a partir de las boletas electrónicas del mes anterior (un 12,15% de éstas), y luego puedes pagar en línea con tu banco. Cuando se habla de "devolución de impuestos" este es el dinero que se te devuelve, si sobra algo luego de tramitar tu declaración de impuestos anual.
+Si tu retuviste el Pago Provisional Mensual al emitir la boleta, debes declarar (**y, muy importante, pagar!**) impuestos mensuales usando el formulario F29 [la web del SII](http://homer.sii.cl/). La página calcula el monto por ti a partir de las boletas electrónicas del mes anterior (un 13,75% de éstas), y luego puedes pagar en línea con tu banco. Cuando se habla de "devolución de impuestos" este es el dinero que se te devuelve, si sobra algo luego de tramitar tu declaración de impuestos anual.
 
-Nota: El porcentaje de retención de 12,15% es para el año comercial 2022, e irá aumentando:
+Nota: El porcentaje de retención de 13,75% es para el año comercial 2024, e irá aumentando:
 
 |2021  | 2022  | 2023  | 2024  | 2025  | 2026  | 2027  | 2028 |
 |:----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:----:|
